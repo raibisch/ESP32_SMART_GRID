@@ -1,5 +1,3 @@
-...comming soon...
-
 this is the "landing page" form my ESP32-SMART-GRID Projects
 
 ### REMARK: Project ist focused on german dynamic electric energy marked starting in 2025...but may be usefull in other EU counties with dynamic EPEX prices
