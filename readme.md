@@ -8,9 +8,9 @@ some basics about dynamic electric energy prices   https://github.com/raibisch/s
 
 first example project: 
 
-# TIBBER SIMULATOR 
-https://github.com/raibisch/ESP32_TIBBER_SIM
+# DYNAMIC ELECTRICITY PRICE CALCULATOR
+https://github.com/raibisch/ESP32_DYNECALC
 
-calculate actual tibber (german) enduser price based on EPEX day-ahead prices
+calculate actual (german) enduser price based on EPEX day-ahead prices for dynamic electricity tariff
 
 ![Android-App](/pict/tibber_price_sim.png)
