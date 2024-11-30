@@ -13,4 +13,4 @@ https://github.com/raibisch/ESP32_DYNECALC
 
 calculate actual (german) enduser price based on EPEX day-ahead prices for dynamic electricity tariff
 
-![Android-App](/pict/tibber_price_sim.png)
+![WEB-App](/pict/tibber_oktober_2024.png)
